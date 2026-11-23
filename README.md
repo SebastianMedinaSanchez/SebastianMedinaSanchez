@@ -1,10 +1,10 @@
 # Hola, soy Sebastián Medina 👋
 
-**Desarrollador de Software Full-Stack · CTO · Automatización e IA** — Villavicencio, Colombia 🇨🇴
+**Desarrollador de Software Full-Stack · CTO · Automatización e IA** — Villavicencio, Colombia
 
 Soy desarrollador desde hace más de 15 años, y los últimos 5 los he dedicado a la automatización, el desarrollo y la implementación de soluciones con inteligencia artificial. Me gusta hacer el ciclo completo: entender el problema del cliente, convertirlo en funcionalidad, probarlo, publicarlo y mantenerlo funcionando.
 
-> 🇺🇸 *Full-stack developer (15+ years) focused on automation and AI-powered products. Currently CTO of GastroCore, a cloud POS for restaurants running in production. Open to remote work.*
+> **English:** *Full-stack developer (15+ years) focused on automation and AI-powered products. Currently CTO of GastroCore, a cloud POS for restaurants running in production. Open to remote work.*
 
 ---
 
